@@ -12,7 +12,7 @@ My main focus is **Full Stack development**, and I enjoy building **web applicat
 - 👯 I’m looking forward to collaborate on **open source projects**  
 - 💡 Ask me about **full-stack development, Java, or database design**, I am happy to help! 😉  
 - Outside of coding: 📖 I love reading, 🎨 sketching, 🎵 listening to music, and 🌴 exploring nature  
-- 📫 Reach out to me at: <a href="mailto:danielacarbonell@example.com">danielacarbonell@example.com</a>
+- 📫 Reach out to me at: <a href="mailto:d.carbonellbatista@gmail.com">danielacarbonell@example.com</a>
 
 ---
 
@@ -25,18 +25,6 @@ This is a **Java Swing Student Registration CRUD project**:
 - **JDBC** connection to **MySQL** database  
 - Fully object-oriented design with **inheritance, modularity, and ActionListener integration**  
 
-__GitHub Repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/DanielaCarbonell/Form_Java">
-      <a href="https://github.com/DanielaCarbonell/Form_Java">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielaCarbonell&repo=Form_Java" alt="GitHub Project" />
-    </a>
-  </p>
-</div>
-
----
 
 ## 👀 My GitHub Stats
 
