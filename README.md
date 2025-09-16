@@ -12,18 +12,9 @@ My main focus is **Full Stack development**, and I enjoy building **web applicat
 - 👯 I’m looking forward to collaborate on **open source projects**  
 - 💡 Ask me about **full-stack development, Java, or database design**, I am happy to help! 😉  
 - Outside of coding: 📖 I love reading, 🎨 sketching, 🎵 listening to music, and 🌴 exploring nature  
-- 📫 Reach out to me at: <a href="mailto:d.carbonellbatista@gmail.com">danielacarbonell@example.com</a>
+- 📫 Reach out to me at: <a href="mailto:d.carbonellbatista@gmail.com">d.carbonellbatista@gmail.com</a>
 
----
-
-## 🚀 My Project: Form_Java
-
-This is a **Java Swing Student Registration CRUD project**:
-
-- Add, update, delete, and display students  
-- Uses **Java Swing** for GUI  
-- **JDBC** connection to **MySQL** database  
-- Fully object-oriented design with **inheritance, modularity, and ActionListener integration**  
+--- 
 
 
 ## 👀 My GitHub Stats
